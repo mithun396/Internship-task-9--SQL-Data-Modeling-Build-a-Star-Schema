@@ -5,7 +5,7 @@ This project focuses on designing and implementing a **Star Schema data model** 
 The objective is to transform a transactional retail dataset into a **data warehouse–ready schema** optimized for analytical queries and BI reporting.
 
 ## Dataset
-**Global Superstore – Retail Sales Dataset**
+**Global Superstore Dataset**
 
 The dataset contains  order-level data including:
 - Customer information
